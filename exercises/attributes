@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
+
+<h1>Attributes</h1>
+
+</body>
+</html>
+
+<img src="img_girl.jpg" width="500" height="600">
+<img src="img_girl.jpg" alt="Girl with a jacket">
+<p style="color:red"> exceresises </p>
