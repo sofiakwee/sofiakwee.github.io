@@ -1,12 +1,26 @@
-<!DOCTYPE html>
 <html>
-<title>HTML Tutorial</title>
 <body>
 
 <h1>Heading</h1>
-<head>
-  <title>This is another </title>
-  <meta charset="UTF-8">
-</head>
+
+<p>headings are great</p>
 
 </body>
+</html>
+<html>
+<body>
+
+<h1>more headings</h1>
+<hr>
+<html>
+<body>
+
+<h1>Heading</h1>
+<h2>Heading</h2>
+<h3>Heading</h3>
+<h4>Heading</h4>
+<h5>Heading</h5>
+<h6>Heading</h6>
+
+</body>
+</html>
