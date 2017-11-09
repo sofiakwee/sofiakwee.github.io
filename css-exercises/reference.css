@@ -6,8 +6,16 @@ h1 {
   font-family: 'Dancing Script', cursive;
 }
 
+h2 {
+background: linear-gradient(to bottom right, violet,lavender);
+}
+
+td, th{
+  border: 1px solid black;
+}
 .tablestyle {
   border: 1px solid black;
+  
 }
 
 .tablestyle th {
@@ -15,3 +23,11 @@ h1 {
 }
 
 
+.examples {
+  background-color: lightgray;
+
+}
+
+.examples p {
+  font-family: "Courier New", Sans-Serif;
+}
