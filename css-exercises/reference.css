@@ -1,0 +1,17 @@
+body {
+    background-color: lavender;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+}
+
+.tablestyle {
+  border: 1px solid black;
+}
+
+.tablestyle th {
+   color: violet;
+}
+
+
