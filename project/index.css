@@ -99,7 +99,9 @@ td, th{
 .tablestyle th {
    color: violet;
 }
-
+img {
+    float: left;
+}
 
 
 
