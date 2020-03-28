@@ -1,0 +1,74 @@
+.content {
+  background-color: lightblue;
+}
+
+.content p {
+  font-family:"Ariel", sans-serif;
+  color:black;
+}
+* {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+/* Style the header */
+.header {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: black;
+}
+
+/* Style the topnav links */
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover:not(.active) {
+    background-color: blue;
+    color: blue;
+}
+
+/* indicate active page on nav */
+.active {
+    background: linear-gradient(blue, powderblue)
+}
+
+/* Style the footer */
+.footer {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+}
+img {
+  width: 100%;
+  height:auto;
+}
+td, th{
+  border: 1px solid black;
+}
+.tablestyle {
+  border: 1px solid black;
+  
+}
+
+.tablestyle th {
+   color: violet;
+}
+img {
+    float: left;
+}
