@@ -6,6 +6,9 @@
   font-family:"Ariel", sans-serif;
   color:black;
 }
+* {
+    box-sizing: border-box;
+}
 
 body {
   margin: 0;
