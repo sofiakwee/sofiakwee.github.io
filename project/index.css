@@ -85,8 +85,8 @@ body {
     text-align: center;
 }
 img {
-  width: 100%;
-  height:auto;
+  width: 85%;
+  height:85%;
 }
 td, th{
   border: 1px solid black;
@@ -98,9 +98,6 @@ td, th{
 
 .tablestyle th {
    color: violet;
-}
-img {
-    float: left;
 }
 
 
