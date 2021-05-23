@@ -55,8 +55,10 @@ body {
     text-align: center;
 }
 img {
-  width: 100%;
+  width: 75%;
   height:auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 td, th{
   border: 1px solid black;
@@ -68,7 +70,4 @@ td, th{
 
 .tablestyle th {
    color: violet;
-}
-img {
-    float: left;
 }
