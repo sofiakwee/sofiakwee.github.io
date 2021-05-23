@@ -55,6 +55,7 @@ body {
     text-align: center;
 }
 .center {
+  display: block;
   width: 75%;
   height:auto;
   margin-left: auto;
